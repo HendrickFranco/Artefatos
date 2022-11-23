@@ -1,0 +1,7 @@
+C:\Users\fastmedic\source\repos\Artefatos\Artefatos\bin\Debug\Artefatos.exe.config
+C:\Users\fastmedic\source\repos\Artefatos\Artefatos\bin\Debug\Artefatos.exe
+C:\Users\fastmedic\source\repos\Artefatos\Artefatos\bin\Debug\Artefatos.pdb
+C:\Users\fastmedic\source\repos\Artefatos\Artefatos\obj\Debug\Artefatos.csproj.AssemblyReference.cache
+C:\Users\fastmedic\source\repos\Artefatos\Artefatos\obj\Debug\Artefatos.csproj.CoreCompileInputs.cache
+C:\Users\fastmedic\source\repos\Artefatos\Artefatos\obj\Debug\Artefatos.exe
+C:\Users\fastmedic\source\repos\Artefatos\Artefatos\obj\Debug\Artefatos.pdb
